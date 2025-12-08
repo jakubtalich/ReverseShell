@@ -36,5 +36,6 @@ nim c -d:mingw --app:gui NimShell3.nim
 ## Listening
 
 ```bash
-nc -nvlp 4444
+nc -nvlp XXXX
 ```
+Where XXXX is the listener's port.
