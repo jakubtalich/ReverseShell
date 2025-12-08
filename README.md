@@ -26,3 +26,15 @@ For Windows compile to EXE using MinGW: runs in the background once executed ("-
 ```bash
 nim c -d:mingw --app:gui NimShell2.nim
 ```
+
+### NimShell3
+
+```bash
+nim c -d:mingw --app:gui NimShell3.nim
+```
+
+## Listening
+
+```bash
+nc -nvlp 4444
+```
