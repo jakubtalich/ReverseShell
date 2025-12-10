@@ -9,7 +9,7 @@ Simple reverse shells written in Nim that bypass Microsoft Defender detection.
 - UNIXes
 
 
-## Compilation
+## Compiling
 
 ### NimShell1
 
